@@ -1,4 +1,5 @@
-# Automobile-Data-Analysis
+## Exploring the Automotive Market Through Data!
+
 After analyzing a dataset of 205 vehicles with 26 features, here are some key insights:
 
 Data Quality & Preparation: The dataset has no null values, but the normalized-losses column includes placeholder values ('?') that need investigation for accuracy.
@@ -24,10 +25,10 @@ Drive Type: Rear-wheel drive (RWD) vehicles are noticeably more expensive than f
 Engine Location: Insufficient data makes it difficult to draw conclusions about engine location and its effect on price, so this area needs further data or analysis.
 
 Impact of Specifications:
-
 Engine Size: Strongly correlates with price, with a positive correlation of 0.87.
 Curb Weight: Shows a high correlation of 0.83 with price, as heavier cars tend to be pricier.
 Horsepower: Correlates positively with price, at 0.81, confirming that more powerful engines often mean higher costs.
 Mileage and Price: City and highway mileage (MPG) negatively correlate with price at -0.69 and -0.71, suggesting that fuel-efficient cars tend to be more affordable.
+
 This analysis offers intriguing insights into automotive pricing trends and preferences. Whether it’s luxury appeal, fuel type, or specifications, understanding these factors could guide consumers and professionals alike in navigating the automotive market.
 
