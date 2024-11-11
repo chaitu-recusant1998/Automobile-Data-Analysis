@@ -1,6 +1,6 @@
 ## Exploring the Automotive Market Through Data!
 
-After analyzing a dataset of 205 vehicles with 26 features, here are some key insights:
+# After analyzing a dataset of 205 vehicles with 26 features, here are some key insights:
 
 Data Quality & Preparation: The dataset has no null values, but the normalized-losses column includes placeholder values ('?') that need investigation for accuracy.
 
